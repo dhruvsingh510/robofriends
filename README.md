@@ -2,7 +2,7 @@
 
 Built with care using React + Redux
 
-Check out the website over here : https://the-dhruv-singh.github.io/robofriends/
+Check out the website over here : https://dhruvsingh510.github.io/robofriends/
 
 OR
 
