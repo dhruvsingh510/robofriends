@@ -1,4 +1,4 @@
-# robofriends
+# robofriends 🤖
 
 Search for your favorite robots using this web app. Built with care using React and Redux 🔥
 
