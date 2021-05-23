@@ -1,13 +1,6 @@
 # robofriends
 
-Built with care using React + Redux
-
+Search for your favorite robots using this web app. Built with care using React and Redux 🔥
 Check out the website over here : https://dhruvsingh510.github.io/robofriends/
 
-OR
-
-To run the project:
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+[![Capture.jpg](https://i.postimg.cc/BZdQvFR1/Capture.jpg)](https://postimg.cc/rzNLnDV8)
